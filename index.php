@@ -1,3 +1,3 @@
 <?
-  echo "Hello world!"
+  required "Main.html"
 ?>
