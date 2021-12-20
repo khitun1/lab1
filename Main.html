@@ -1,0 +1,37 @@
+<!DOCTYPE HTML 5>
+<html>
+ <head>
+  <title>Apple technology</title>
+  <link rel="stylesheet" href="Main.css">
+ </head>
+ <body>
+  <div id = "page-preloader" class="preloader">
+    <div class = "loader"></div>
+  </div>
+  <header>
+   <img src="logo.png" class="logo"/>
+   <a  href="iPhone.html"><h class="iphone">iPhone</h></a>
+   <a  href="Watch.html"><h class="watch">Watch</h></a>
+   <a  href="Music.html"><h class="music">Music</h></a>
+  </header>
+  <article>
+   <img src= "main_iPhone.png"class="imgIphone"/>
+   <img src="main_watch.png" class="imgWatch"/>
+   <img src="main_music.png"  class="imgMusic"/>
+  </article>
+  <footer>
+    <button class="open" onclick="openForm()"><img src="Conn.png" class="con"></button>
+    <form class="decor" id="myForm">
+        <div class="form-inner">
+        <h3>Написать нам</h3>
+        <input type="text" placeholder="Username">
+        <input type="email" placeholder="Email">
+        <textarea placeholder="Сообщение..." rows="3"></textarea>
+        <button  class="send" >Отправить</button>
+        <button  class="send" onclick="closeForm()">Закрыть</button>
+        </div>
+    </form>
+  </footer>
+  <script src="Main.js"></script>
+ </body>
+</html>
