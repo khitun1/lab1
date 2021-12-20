@@ -1,3 +1,3 @@
 <?
-  required "Main.html"
+  require "Main.html"
 ?>
