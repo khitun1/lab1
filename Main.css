@@ -1,0 +1,97 @@
+html{
+	position: relative;
+	width: 1536px;
+	height: 753px;
+	background: linear-gradient(to top left, gray, white, white);
+}
+
+
+header{
+	position: absolute;
+	width: 1200px;
+	height: 140px;
+	left: 160px;
+	top: 0px;
+	background: #000000;	
+}
+
+.logo{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 10px;
+	top: 18px;
+}
+
+.iphone{
+	position: absolute;
+	width: 254px;
+	height: 52px;
+	left: 150px;
+	top: 72px;
+	font-family: Times, Times New Roman, serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.watch{
+	position: absolute;
+	width: 254px;
+	height: 52px;
+	left: 500px;
+	top: 70px;
+	font-family: Times, Times New Roman, serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.music{
+	position: absolute;
+	width: 254px;
+	height: 52px;
+	left: 900px;
+	top: 72px;
+	font-family: Times, Times New Roman, serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.imgIphone{
+	position: absolute;
+	width: 282px;
+	height: 500px;
+	left: 320px;
+	top: 98px;
+}
+
+.imgWatch{
+	position: absolute;
+	width: 282px;
+	height: 500px;
+	left: 680px;
+	top: 110px;
+}
+
+.imgMusic{
+	position: absolute;
+	width: 282px;
+	height: 400px;
+	left: 1060px;
+	top: 180px;
+}
+
+* {
+	box-sizing: border-box;
+ }
