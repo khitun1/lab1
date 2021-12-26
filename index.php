@@ -1,4 +1,4 @@
 <?
-require "Main.html"
-require "Form.html"
+require "Main.html";
+require "Form.html";
 ?>
