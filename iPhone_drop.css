@@ -1,0 +1,257 @@
+.Back{
+	
+	position: absolute;
+	width: 200px;
+	height: 70px;
+	right: 10px;
+	bottom: 10px;
+	background-color: black;
+ 	border-radius: 25px;
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	font-family: Times;
+	cursor: pointer;
+}
+
+
+#Carousel12{
+	position: absolute;
+	top: 140px;
+	left: 100px;
+	width: 400px;
+	height: 450px;
+	background: linear-gradient(white,gray,gray);
+	border-radius: 5%;
+	display: none;
+}
+
+#CarouselMini{
+	position: absolute;
+	top: 140px;
+	left: 600px;
+	width: 400px;
+	height: 450px;
+	background: linear-gradient(white,gray,gray);
+	border-radius: 5%;
+	display: none;
+}
+
+#CarouselXr{
+	position: absolute;
+	top: 140px;
+	left: 1100px;
+	width: 400px;
+	height: 450px;
+	background: linear-gradient(white,gray,gray);
+	border-radius: 5%;
+	display: none;
+}
+
+
+.imgTwelve{
+	position: absolute;
+	width: 250px;
+	height: 400px;
+	left: 150px;
+	top: 160px;
+	cursor: pointer;
+
+}
+
+.imgMini{
+	position: absolute;
+	width: 220px;
+	height: 320px;
+	left: 600px;
+	top: 180px;
+	cursor: pointer;
+}
+
+.imgXr{
+	position: absolute;
+	width: 370px;
+	height: 400px;
+	right: 100px;
+	top: 160px;
+	cursor: pointer;
+}
+
+.Photos img{
+    display: none;
+}
+
+.Photos img:first-child{
+    display: block;
+}
+
+.close{
+		position: absolute;
+		right:0px;
+}
+
+
+.buttons .prev{
+	position: absolute;
+	top: 420px;
+	left: 120px;
+}
+
+.buttons .next{
+	position: absolute;
+	top: 420px;
+	left: 250px;
+}
+
+
+#White12{
+	position:absolute;
+	top: 40px;
+	left: 90px;
+	height: 350px;
+	width: 250px;
+}
+
+#Black12{
+	position:absolute;
+	top: -50px;
+	left: 0px;
+	height: 500px;
+	width: 400px;	
+}
+
+#Green12{
+	position:absolute;
+	top: 40px;
+	left: 70px;
+	height: 370px;
+	width: 300px;	
+}
+
+#Purple12{
+	position:absolute;
+	top: -50px;
+	left: 0px;
+	height: 500px;
+	width: 400px;
+}
+
+#WhiteMini{
+	position:absolute;
+	top: 90px;
+	left: 110px;
+	height: 300px;
+	width: 200px;
+}
+
+#BlackMini{
+	position:absolute;
+	top: 0px;
+	left: 20px;
+	height: 450px;
+	width: 350px;	
+}
+
+#GreenMini{
+	position:absolute;
+	top: 70px;
+	left: 90px;
+	height: 300px;
+	width: 250px;	
+}
+
+#RedMini{
+	position:absolute;
+	top: 100px;
+	left: 70px;
+	height: 300px;
+	width: 250px;
+}
+
+#WhiteXr{
+	position:absolute;
+	top: 30px;
+	left: 50px;
+	height: 400px;
+	width: 300px;
+}
+
+#BlueXr{
+	position:absolute;
+	top: 80px;
+	left: 100px;
+	height: 300px;
+	width: 200px;	
+}
+
+
+
+#RedXr{
+	position:absolute;
+	top: 80px;
+	left: 80px;
+	height: 320px;
+	width: 270px;	
+}
+
+#YellowXr{
+	position:absolute;
+	top: 15px;
+	left: 15px;
+	height: 400px;
+	width: 350px;
+}
+
+#like{
+	position:absolute;
+	height: 500px;
+	width: 1200px;	
+	bottom: 100px;
+	left: 150px;
+	text-align: center;
+	font-size: 30px;
+	background: linear-gradient(white,gray);
+	border-radius: 10px;
+	color: gray;
+}
+
+#firstlike{
+	position:absolute;
+	height: 450px;
+	width: 350px;	
+	bottom: 10px;
+	left: 40px;
+	text-align: center;
+	font-size: 30px;
+	background: linear-gradient(white,gray);
+	border: 3px, red;
+	color: gray;
+}
+
+#secondlike{
+	position:absolute;
+	height: 450px;
+	width: 350px;	
+	bottom: 10px;
+	left: 430px;
+	text-align: center;
+	font-size: 30px;
+	background: linear-gradient(white,gray);
+	border: 3px, red;
+	color: gray;
+}
+
+#thirdlike{
+	position:absolute;
+	height: 450px;
+	width: 350px;	
+	bottom: 10px;
+	left: 830px;
+	text-align: center;
+	font-size: 30px;
+	background: linear-gradient(white,gray);
+	border: 3px, red;
+	color: gray;
+}
+
+
